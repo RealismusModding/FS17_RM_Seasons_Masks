@@ -1,4 +1,4 @@
-# FS17_Seasons Snow Masks
+# FS17 Seasons Snow Masks
 Publicly shared collaboratively created snow masks for FS17 maps.
 
 Free to use by anybody (see license).
