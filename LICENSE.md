@@ -2,9 +2,7 @@ Unless an other license is given with the files in the same folder,
 all files in this repository (RealismusModding/FS17_Seasons-SnowMasks) fall
 under the Creative Commons BY-SA 4.0 license.
 
-# CC BY-SA 4.0
-
-## creative commons
+## Creative Commons
 
 # Attribution 4.0 International
 

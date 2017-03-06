@@ -3,6 +3,22 @@ Publicly shared collaboratively created snow masks for FS17 maps.
 
 Free to use by anybody (see license).
 
+## Using
+
+You can use these snow masks by following the wiki
+[wiki](https://github.com/RealismusModding/FS17_seasons/wiki/Info-for-Map-Makers)
+on Seasons.
+
+## Snow mask best practices
+
+For the best results, you should mask the following:
+- All roads that are not painted but use objects.
+- All houses, sheds
+- Everywhere there is tipCol. (You can use the tipCol as a base). This is neccessary
+  for good gameplay, as snow can't be removed when there is a tipCol.
+
+Placeables are masked automatically.
+
 ## Uploading
 
 There are multiple ways to upload your snowmask here: you can use a Pull Request
