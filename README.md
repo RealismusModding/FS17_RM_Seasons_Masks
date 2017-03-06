@@ -3,8 +3,10 @@ Publicly shared collaboratively created snow masks for FS17 maps.
 
 Free to use by anybody (see license).
 
-## Using
+## Using a snow mask
 
+Download the files gdm and grle files (you can download individual files by
+opening them and clicking the 'Download' button)
 You can use these snow masks by following the wiki
 [wiki](https://github.com/RealismusModding/FS17_seasons/wiki/Info-for-Map-Makers)
 on Seasons.
