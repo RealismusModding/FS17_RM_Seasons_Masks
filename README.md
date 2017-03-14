@@ -26,7 +26,7 @@ Placeables are masked automatically.
 There are multiple ways to upload your snowmask here: you can use a Pull Request
 that does all the work. If you don't know how that works, you can also make an
 issue with the files attached. Or you can send it to us on
-[Slack](http://realismus.joskuijpers.nl).
+[Slack](http://slack.realismusmodding.com).
 
 ## License
 
@@ -40,4 +40,4 @@ makes changes, those must be disclosed (written down). If you make changes
 you also have to make it available to others under CC BY-SA 4.0.
 
 If you want your snowmask removed or are having issues regarding licensing, you
-can contact us directly on [Slack](http://realismus.joskuijpers.nl).
+can contact us directly on [Slack](http://slack.realismusmodding.com).
