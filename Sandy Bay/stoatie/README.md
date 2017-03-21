@@ -11,4 +11,3 @@ Main roads are now masked, not lanes or single roads.
 Parts of sales yards masked
 Field 25 masked
 Outside feeding troughs masked
-WARNING: DO NOT ENTER ANY FIELD ON SOUTHERN BORDER WHEN THERE IS SNOW ON THE MAP. Map issue not seasons related.
